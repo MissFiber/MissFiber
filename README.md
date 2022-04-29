@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MissFiber
 - 👀 I’m interested in FiveM
-- 📫 How to reach me Discord British#2220
+- 📫 How to reach me Discord MissFiber#2220
 
 <!---
 MissFiber/MissFiber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
